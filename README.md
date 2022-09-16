@@ -7,8 +7,8 @@
 ```
 ---
 
-2. BrewFile 다운로드
-- 현재 Repository에서 BrewFile을 찾아 다운로드
+2. Brewfile 다운로드
+- 현재 Repository에서 Brewfile을 찾아 다운로드
 
 ---
 3. BrewFile 설치
