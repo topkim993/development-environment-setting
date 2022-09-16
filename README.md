@@ -12,7 +12,7 @@
 
 ---
 3. BrewFile 설치
-- 다운로드 받은 BrewFile 경로로 이동하여 아래 명령어 실행
+- 다운로드 받은 Brewfile 경로로 이동하여 아래 명령어 실행
 ```
 brew bundle
 ```
