@@ -21,3 +21,4 @@ cask "logitech-options"
 mas "Amphetamine", id: 937984704
 mas "RunCat", id: 1429033973
 mas "QuickShade", id: 931571202
+mas "ColorSlurp", id: 1287239339
