@@ -17,6 +17,7 @@ cask "android-studio"
 cask "slack"
 cask "webex"
 cask "logitech-options"
+cask "iterm2"
 
 mas "Amphetamine", id: 937984704
 mas "RunCat", id: 1429033973
