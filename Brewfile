@@ -2,6 +2,7 @@ brew "cask"
 brew "mas"
 brew "tree"
 brew "swiftlint"
+brew "swiftformat"
 
 cask "xcodes"
 cask "appcode"
@@ -23,3 +24,4 @@ mas "Amphetamine", id: 937984704
 mas "RunCat", id: 1429033973
 mas "QuickShade", id: 931571202
 mas "ColorSlurp", id: 1287239339
+mas "GIPHY Capture. The GIF Maker", id: 668208984
