@@ -20,6 +20,7 @@ cask "webex"
 cask "logitech-options"
 cask "iterm2"
 cask "lookin"
+cask "gureumkim"
 
 mas "Amphetamine", id: 937984704
 mas "RunCat", id: 1429033973
