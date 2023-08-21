@@ -21,6 +21,7 @@ cask "logitech-options"
 cask "iterm2"
 cask "lookin"
 cask "gureumkim"
+cask "gifski"
 
 mas "Amphetamine", id: 937984704
 mas "RunCat", id: 1429033973
