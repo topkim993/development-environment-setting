@@ -18,6 +18,7 @@ cask "iterm2"
 cask "lookin"
 cask "gifski"
 cask "rectangle"
+case "mark-text"
 
 mas "Amphetamine", id: 937984704
 mas "RunCat", id: 1429033973
